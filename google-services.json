@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392691627467",
+    "project_id": "staffsetu-dc743",
+    "storage_bucket": "staffsetu-dc743.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392691627467:android:b080b3cddd2db8a4cbf24e",
+        "android_client_info": {
+          "package_name": "com.staffsetu.partner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ZuLPseCc4ioxhYxnDLgykCV0h6qDV7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
